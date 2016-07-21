@@ -10,6 +10,10 @@
     "mocha": "^2.5.3",
     "sinon": "^1.17.4"
   },
+  "engines": {
+    "node": "^4.2.3",
+    "npm": "^2.14.7"
+  },
   "scripts": {
     "start": "node server",
     "test": "grunt test"
