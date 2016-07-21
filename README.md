@@ -1,1 +1,1 @@
-This is the first commit for travis to build
+This is the minimum settings to have CI in NodeJS
