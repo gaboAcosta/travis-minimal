@@ -1,0 +1,17 @@
+{
+  "name": "travis-test",
+  "version": "0.0.0",
+  "main": "src/app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.5.3",
+    "sinon": "^1.17.4"
+  },
+  "scripts": {
+    "start": "node server",
+    "test": "grunt test"
+  }
+}
