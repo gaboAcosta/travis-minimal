@@ -4,6 +4,6 @@
 module.exports = {
   start: function(someDependency){
     console.log('This is my NodeJS basic app');
-    someDependency.init();
+    //someDependency.init();
   }
 };
